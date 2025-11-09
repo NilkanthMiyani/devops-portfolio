@@ -83,10 +83,10 @@ I’m open to opportunities where I can contribute to real-world systems, learn 
   education: [
     {
       school: "Gujarat Technological University",
-      degree: "Bachelor of Engineering in Computer Engineering",
+      degree: "Bachelor of Engineering in Information Technology",
       dateRange: "2022 - 2026",
       achievements: [
-        "Focused on Cloud, DevOps, and Machine Learning projects",
+        "Focused on Cloud, DevOps related projects",
         "Built hands-on projects integrating Azure, Jenkins, and Docker",
         "Emerging Technologies under Code Unnati Program, a CSR initiative of SAP and implemented by Edunet Foundation.",
       ],
