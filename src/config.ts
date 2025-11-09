@@ -42,12 +42,12 @@ I’m open to opportunities where I can contribute to real-world systems, learn 
       name: "DevOps End-to-End Portfolio Project",
       description:
         "Deployed a complete DevOps workflow including VM setup, load balancer routing, containerization using Docker, orchestration using Kubernetes, and CI/CD automation.",
-      link: "https://github.com/NilkanthMiyani/devops-portfolio",
+      link: "https://github.com/nilkanthmiyani/devops-portfolio",
       skills: ["Docker", "Kubernetes", "Nginx", "Jenkins", "Azure"]
     }
   ],
 
-  certifications: [
+  experience: [
     {
       company: "Edureka",
       title: "DevOps Engineer - GenAI Program",
