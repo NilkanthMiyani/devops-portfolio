@@ -44,7 +44,14 @@ I’m open to opportunities where I can contribute to real-world systems, learn 
         "Deployed a complete DevOps workflow including VM setup, load balancer routing, containerization using Docker, orchestration using Kubernetes, and CI/CD automation.",
       link: "https://github.com/nilkanthmiyani/devops-portfolio",
       skills: ["Docker", "Kubernetes", "Nginx", "Jenkins", "Azure"]
-    }
+    },
+    {
+      name: "Node.js Todo App CI/CD Pipeline",
+      description:
+        "Built a full CI/CD workflow for a Node.js application using GitLab CI/CD. Automated build, test, Docker image creation, and deployment. Integrated runner configuration and environment-based deployment pipeline.",
+      link: "https://github.com/NilkanthMiyani/node-todo-cicd",
+      skills: ["Node.js", "GitLab CI/CD", "Docker"]
+    },
   ],
 
   experience: [
