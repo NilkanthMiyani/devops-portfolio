@@ -15,21 +15,32 @@ export const siteConfig = {
 I’m a DevOps and Cloud Engineer who enjoys building scalable infrastructure and automating deployment workflows. I work with Kubernetes, Docker, GitLab CI/CD, Jenkins, Terraform, and Ansible to create reliable systems that are easy to deploy, monitor, and improve. I learn by building and refining step-by-step, and I’m always exploring better ways to make systems faster, cleaner, and more resilient.
 `,
 
-  skills: [
-    "Jenkins",
-    "Docker",
-    "Kubernetes",
-    "Terraform",
-    "Ansible",
-    "Azure",
-    "AWS",
-    "Git",
-    "Linux",
-    "Nginx",
-    "Cloudflare",
-    "Python",
-    "Bash"
-  ],
+skills: [
+  // CI/CD & Automation
+  "GitLab CI/CD",
+  "Jenkins",
+  "Ansible",
+  "Terraform",
+
+  // Containers & Orchestration
+  "Docker",
+  "Kubernetes",
+  "Nginx",
+
+  // Cloud Platforms
+  "Azure",
+  "AWS",
+  "Cloudflare",
+
+  // Dev & Scripting
+  "Python",
+  "Linux",
+  "Bash",
+  "Java",
+
+  // Version Control
+  "GitHub"
+],
 
   projects: [
     {
