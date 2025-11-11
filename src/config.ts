@@ -58,6 +58,21 @@ skills: [
       link: "https://github.com/NilkanthMiyani/node-todo-cicd",
       skills: ["Node.js", "GitLab CI/CD", "Docker"]
     },
+    {
+  name: "Retail Store Sample App – End-to-End DevOps on AWS EKS",
+  description: "I deployed a microservices-based retail-store sample app into production-style infrastructure: I used Terraform to provision AWS resources including an EKS cluster (Auto-Mode) and VPC, built and pushed Docker images, deployed services on Kubernetes, and used ArgoCD for GitOps-driven CI/CD and declarative deployments.",
+  link: "https://github.com/NilkanthMiyani/retail-store-sample-app.git",
+  skills: [
+    "Terraform",
+    "AWS",
+    "Docker",
+    "Kubernetes",
+    "ArgoCD",
+    "GitOps",
+    "CI/CD"
+  ]
+},
+
   ],
 
   experience: [
