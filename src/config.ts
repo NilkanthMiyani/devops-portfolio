@@ -25,7 +25,6 @@ skills: [
 
   // Containers & Orchestration
   "Docker",
-  "AI/ML",
   "Kubernetes",
   "Nginx",
 
